@@ -6,12 +6,12 @@ body {
 
 .jumbotron 
 {
-  background-image: url('../images/arches-blue-sky.jpg');
+  background-image: url('../images/zion-national-park-.jpg');
   background-size: cover;
   color: white;
   height: 500px;
   background-position: left;
-  background-position-y: 30%;
+  background-position-y: 35%;
 }
 
 .nav-pills
