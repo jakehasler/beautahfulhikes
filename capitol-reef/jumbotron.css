@@ -1,0 +1,26 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron 
+{
+  background-image: url('../images/arches-blue-sky.jpg');
+  background-size: cover;
+  color: white;
+  height: 500px;
+  background-position: left;
+  background-position-y: 30%;
+}
+
+.nav-pills
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.navbar-header a
+{
+	padding-top: 25px;
+}
